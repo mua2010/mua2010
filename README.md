@@ -6,8 +6,7 @@
 
 - 🌱 Interested in Backend, Automation, Microservice Architecture, Full Stack, API Dev, Data Engineering
 
-- ⚡ Fun fact: chai > coffee
+- ⚡ **Fun fact:** Chai > coffee
 
 ## Let's Connect
-
 [![Linkedin Badge](https://img.shields.io/badge/-mua2010-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mua2010/)](https://www.linkedin.com/in/mua2010/)
