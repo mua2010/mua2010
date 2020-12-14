@@ -1,9 +1,6 @@
 # :man_technologist: Hi there! <img src="https://github.com/mua2010/mua2010/blob/main/wave.gif" width="30px">
 
-
-## About Me
-
-When I am not coding or working on a project, I love cooking🍳 and embarking on road trips🌇.
+## When I am not coding or working on a project, I love cooking🍳 and embarking on road trips🌇.
 
 - 🔭 Software Engineer 
 
@@ -13,4 +10,4 @@ When I am not coding or working on a project, I love cooking🍳 and embarking o
 
 ## Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-ritwikbagga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mua2010/)](https://www.linkedin.com/in/mua2010/)
+[![Linkedin Badge](https://img.shields.io/badge/-mua2010-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mua2010/)](https://www.linkedin.com/in/mua2010/)
