@@ -1,4 +1,4 @@
-# :man_technologist: Hi there! <img src="https://github.com/mua2010/mua2010/blob/main/wave.gif" width="30px">
+# :man_technologist: Hey! <img src="https://github.com/mua2010/mua2010/blob/main/wave.gif" width="30px">
 
 ## When I am not coding or working on a project, I love cooking🍳 and embarking on road trips🌇.
 
