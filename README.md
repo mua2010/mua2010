@@ -2,7 +2,7 @@
 
 ## When I am not coding or working on a project, I love cooking🍳 and travelling⛰️
 
-- 🔭 Software Engineer 
+- 💻 Software Engineer 
 
 - 🌱 Interested in Backend, Automation, Microservice Architecture, Full Stack, API Dev, Data Engineering
 
